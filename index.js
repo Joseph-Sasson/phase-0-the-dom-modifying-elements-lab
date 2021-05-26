@@ -3,5 +3,5 @@ main.remove()
 
 const newHeader = document.createElement('h1')
 newHeader.id = 'victory'
-
-newHeader.innerHTML = '<h1>Joseph is the champion</h1>'
+newHeader.innerHTML = 'Joseph is the champion'
+//This makes the created h1 string say 'Joseph is the champion'?
